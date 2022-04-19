@@ -11,4 +11,4 @@ Zidentyfikowane błędy w PRG:
 * brak punktów adresowych w PRG, które istnieją w terenie,
 * punkty adresowe w dużej odległości od ulicy, do której się odwołują,
 * punkty adresowe znajdujące się poza obrysem budynku, którego dotyczą,
-* PRG nie jest na bierząco aktualizowane danymi z gminych ewidencji adresów.
+* PRG nie jest na bieżąco aktualizowane danymi z gminych ewidencji adresów.
